@@ -1,0 +1,14 @@
+html {
+    text-align: center;
+    background: #000;
+}
+
+h1,
+h2 {
+    color: #fff
+}
+
+a {
+    color: aquamarine;
+    text-size: 16px;
+}
